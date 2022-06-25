@@ -1,5 +1,5 @@
 ![Something About Me](https://user-images.githubusercontent.com/81462958/175777558-7bab46d7-24b7-4a9d-b80d-0eef64aa68ee.png)
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="6%" height= '6%'>
+ Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="6%" height= '6%'>
 - 👋 I’m Wajiha shoaib Student of Computer Science
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Big Data Analytics.
