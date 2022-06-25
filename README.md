@@ -1,4 +1,4 @@
-![Something About Me (3)](https://user-images.githubusercontent.com/81462958/175775823-9ca9d831-babc-4be2-86b0-d5745cf784ef.png)
+![Something About Me](https://user-images.githubusercontent.com/81462958/175777558-7bab46d7-24b7-4a9d-b80d-0eef64aa68ee.png)
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= '35px'>
 - 👋 I’m @Wajihashoaib Student of Computer Science
 - 👀 I’m interested in Data Science
