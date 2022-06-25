@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Wajihashoaib
+<!-- - 👋 Hi, I’m @Wajihashoaib
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Big Data Analytics.
-
-<!---
-Wajihashoaib/Wajihashoaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Big Data Analytics. -->
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
