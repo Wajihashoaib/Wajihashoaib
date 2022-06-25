@@ -4,6 +4,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Big Data Analytics.
 # Technology and Tools
+<span><i class="fa-solid fa-hand-back-fist"></i></span>
 ![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=fdcf43) 
 <br>
 ![](https://img.shields.io/badge/Language-SQL-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=fdcf43) 
@@ -17,6 +18,8 @@
 ![](https://img.shields.io/badge/Tools-MySQLWorkbench-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=fdcf43)
 <br>
 ![](https://img.shields.io/badge/Tools-Xampp-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=fdcf43)
+<br>
+![](https://img.shields.io/badge/CMS-WordPress-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=fdcf43)
 <br>
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=fdcf43)
 <br>
