@@ -1,7 +1,7 @@
-![Something About Me](https://user-images.githubusercontent.com/81462958/175777558-7bab46d7-24b7-4a9d-b80d-0eef64aa68ee.png)
- # Hello! <img src=''>
+
+ # Hello!
 - 👋 I’m Wajiha shoaib Student of Computer Science
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science | Data Analytics | ML & AI
 - 🌱 I’m currently learning Big Data Analytics.
 # Technology and Tools
 <span><i class="fa-solid fa-hand-back-fist"></i></span>
